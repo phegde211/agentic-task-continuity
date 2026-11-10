@@ -1,8 +1,8 @@
 # Task Continuity in Agentic AI Flows
 
 **Problem statement — public preview. The full protocol specification has been
-authored and is being prepared for submission to the IETF as an individual
-Internet-Draft. See [Status and access](#6-status-and-access).**
+authored and is being worked upon for IETF submission for Internet-Draft. 
+See [Status and access](#6-status-and-access).**
 
 ## 1. Context
 
@@ -118,7 +118,8 @@ The full specification is held in a private repository:
 (the link returns 404 unless you have been granted access).
 
 To request access, reach out to the author at **prabhat.hegde@gmail.com**
-with your GitHub email ID, and permission will be granted.
+with your GitHub email ID, and permission can be granted based on the
+request. 
 
 ---
 *Author: Prabhat Hegde*
